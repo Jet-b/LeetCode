@@ -11,9 +11,4 @@ class Solution(object):
                 uniqueIndex += 1
         return uniqueIndex
     
-    def removeDuplicates2(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        
+
